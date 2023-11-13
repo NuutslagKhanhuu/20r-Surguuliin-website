@@ -1,5 +1,4 @@
-# 20r-Surguuliin-website
-<!DOCTYPE html>
+# 20r surguuliin website, Wellcome!
 
 <html>
 <head>
@@ -8,10 +7,17 @@
 </head>
 <body>
   <h1>
-    8yo angiin gay humuus:
+    8yo angiin medeelel:
   </h1>
   <h4>
-    Margad,Adya,Ahmadjon,Batkhuu
+  <br> 
+  Gay humuus:Margad,Adya,Ahmadjon,Batkhuu
+  </br>
+    <br>
+     Onts surlagtanuud: Undrah, Biligt, Batkhuu
+    </br>
+    <br>Sportlog huuhdud:Tengis,Tergel,Temuulen,Buynbileg,Manlai
+  </br>  
   </h4>
 </body>
 </html>
