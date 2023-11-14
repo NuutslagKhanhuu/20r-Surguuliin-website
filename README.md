@@ -18,9 +18,9 @@
   <h1>
     <br>Энэ бол Б.Батхүү
   </h1>
-  <img src="https://pin.it/6nVLh9J">
+  <img src="https://ibb.co/dkyhBjq">
   <h1><br>Энэ бол Н.Ахмаджон</h1>
-  <img src="https://pin.it/27AiDG1">
+  <img src="https://ibb.co/gj8qNfC">
   
 </body>
 </html>
