@@ -12,12 +12,15 @@
   <h4>
   <br> 
   Gay humuus:Margad,Adya,Ahmadjon,Batkhuu
-  </br>
-    <br>
-     Onts surlagtanuud: Undrah, Biligt, Batkhuu
-    </br>
-    <br>Sportlog huuhdud:Tengis,Tergel,Temuulen,Buynbileg,Manlai
-  </br>  
+    <br> Onts surlagtanuud: Undrah, Biligt, Batkhuu
+    <br>Sportlog huuhdud:Tengis,Tergel,Temuulen,Buynbileg,Manlai 
   </h4>
+  <h1>
+    <br>Энэ бол Б.Батхүү
+  </h1>
+  <img src="https://pin.it/6nVLh9J">
+  <h1><br>Энэ бол Н.Ахмаджон</h1>
+  <img src="https://pin.it/27AiDG1">
+  
 </body>
 </html>
